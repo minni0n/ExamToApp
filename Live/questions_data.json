@@ -1,0 +1,2947 @@
+[
+    {
+        "Question Number": "1",
+        "Topic Number": "1",
+        "Question": "Your company has recently deployed Dynamics 365 Finance.You are currently establishing the location of work items.Which two of the following work items are located in Accounts payable?NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "A",
+            "B"
+        ],
+        "Answers": [
+            "A. Purchase order.",
+            "B. Vendor invoice.",
+            "C. Transfer order.",
+            "D. Customer Invoice.",
+            "E. Sales Order."
+        ]
+    },
+    {
+        "Question Number": "2",
+        "Topic Number": "1",
+        "Question": "As part of the company's effort to regulate business processes, you plan to make use of the Business Process Modeler (BPM) tool in LifecycleServices (LCS) to make business process alignment possible.You are classifying the key capabilities of BPM with regards to integration.Which of the following is TRUE with regards to the above scenario?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. You are able to pull master data.",
+            "B. You are able to pull reference data.",
+            "C. You are able to upload \u0000owcharts from Task recorder.",
+            "D. You are able to access external databases."
+        ]
+    },
+    {
+        "Question Number": "3",
+        "Topic Number": "1",
+        "Question": "Microsoft releases a new feature for public preview that does not require additional licensing.You want to enable the new feature.You enable the feature in Solution management.Does this action enable the new feature?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "4",
+        "Topic Number": "1",
+        "Question": "Microsoft releases a new feature for public preview that does not require additional licensing.You want to enable the new feature.You enable the feature in Lifecycle Services (LCS).Does this action enable the new feature?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "5",
+        "Topic Number": "1",
+        "Question": "Microsoft releases a new feature for public preview that does not require additional licensing.You want to enable the new feature.You enable the feature in Feature management.Does this action enable the new feature?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "6",
+        "Topic Number": "1",
+        "Question": "You are employed as a Dynamics 365 Finance system administrator at your company.You have been tasked with making sure that users are able to quickly reduce the number of records. To do this, the data must be \u0000ltered accordingto speci\u0000ed criteria.Which of the following is the appropriate query \u0000lter syntax for today's date in a date \u0000eld?Which \u0000lter syntax should you use? To answer, select the appropriate options in the answer area.",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. DD",
+            "B. D",
+            "C. T",
+            "D. T(0)"
+        ]
+    },
+    {
+        "Question Number": "7",
+        "Topic Number": "1",
+        "Question": "Your company has a Dynamics 365 Finance environment that includes the use of Lifecycle Services (LCS).You want to make sure that you are able to use Business Process Modeler (BPM) in the environment.Which of the following is TRUE with regards to using BPM?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. As a minimum, you need Microsoft O\u0000ce 2010 and a Microsoft Azure DevOps project.",
+            "B. As a minimum, you need Microsoft O\u0000ce 2019 and a Microsoft Azure DevOps project.",
+            "C. As a minimum, you need Microsoft O\u0000ce 2010 and Dynamics 365 Project Service Automation.",
+            "D. As a minimum, you need Microsoft O\u0000ce 2019 and Dynamics 365 Project Service Automation."
+        ]
+    },
+    {
+        "Question Number": "8",
+        "Topic Number": "1",
+        "Question": "You need to consider the underlined segment to establish whether it is accurate.The Global search reporting tool can be used to speedily \u0000nd personal data for a speci\u0000ed individual.Select `No adjustment required` if the underlined segment is accurate. If the underlined segment is inaccurate, select the accurate option.",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. No adjustment required.",
+            "B. Person search report",
+            "C. GDPR request",
+            "D. Relevance search report"
+        ]
+    },
+    {
+        "Question Number": "9",
+        "Topic Number": "1",
+        "Question": "Your company make use of Dynamics 365 Finance.You are responsible for assessing business processes and their related prerequisites, which includes bugs, tasks, backlog items, tests, anddocuments.You have been tasked with tracking the progress of your implementation project and correlate different work items with prerequisites andbusiness processes. You also have to detect and distribute bug \u0000xes within your regular delivery schedule.Which of the following should you use to create business process maps?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Microsoft Visio",
+            "B. Business process modeler",
+            "C. Microsoft Azure DevOps",
+            "D. Microsoft GitHub"
+        ]
+    },
+    {
+        "Question Number": "11",
+        "Topic Number": "1",
+        "Question": "You need to consider the underlined segment to establish whether it is accurate.To review who has been assigned the administrator role, you should use the Security duty assignments report.Select `No adjustment required` if the underlined segment is accurate. If the underlined segment is inaccurate, select the accurate option.",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. No adjustment required.",
+            "B. Security role access",
+            "C. Role to user assignments",
+            "D. User role assignments"
+        ]
+    },
+    {
+        "Question Number": "12",
+        "Topic Number": "1",
+        "Question": "You are setting up Dynamics 365 Finance for a company started in the United States and Canada.You are currently determining policy rules for purchasing. You need to make sure that personnel in the United States and Canada purchase fromseparate catalogs and suppliers.Which of the following actions should you take?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Set up catalog policy rules.",
+            "B. Set up purchasing policies at the legal-entity level.",
+            "C. Set up category access policy rules.",
+            "D. Set up purchasing policies at the organization level."
+        ]
+    },
+    {
+        "Question Number": "13",
+        "Topic Number": "1",
+        "Question": "You are setting up Dynamics 365 Finance for a companyYou are currently determining policy rules for purchasing. You are informed that your solution should allow for a certain user to only access theTools category when generating purchase requisitions.Which of the following actions should you take?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. Set up catalog policy rules.",
+            "B. Set up category policy rule",
+            "C. Set up category access policy rules.",
+            "D. Set up purchasing policies at the organization level."
+        ]
+    },
+    {
+        "Question Number": "14",
+        "Topic Number": "1",
+        "Question": "Your company uses Dynamics 365 Finance.You are responsible for approving purchases that exceed of a quarter million dollars. You need to use User Options to allow another user to takeover your role.You add the user and assign the user the All scope.Does this action allow the user to take over your role?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "15",
+        "Topic Number": "1",
+        "Question": "Your company uses Dynamics 365 Finance.You are responsible for approving purchases that exceed of a quarter million dollars. You need to use User Options to allow another user to takeover your role.You add the user and assign the user the Module scope.Does this action allow the user to take over your role?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "16",
+        "Topic Number": "1",
+        "Question": "Your company uses Dynamics 365 Finance.You are responsible for approving purchases that exceed of a quarter million dollars. You need to use User Options to allow another user to takeover your role.You add the user and assign the user the Work\u0000ow scope.Does this action allow the user to take over your role?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "17",
+        "Topic Number": "1",
+        "Question": "Your company has a Dynamics 365 Finance environment.You have found a large number of unused purchase order numbers. These order numbers are also not being reused.Procurement processes are running 24/7 at present, and interruptions are not allowed.You have to make sure that the unused purchase order numbers are used in the system.Which of the following actions should you take? (Choose all that apply.)",
+        "Correct Answer": [
+            "B",
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "B",
+            "D"
+        ],
+        "Answers": [
+            "A. Change the number sequence to continuous.",
+            "B. Run Automatic cleanup of number sequence.",
+            "C. Change the number sequence to non-continuous.",
+            "D. Create the new purchase orders.",
+            "E. Assign the number sequences to the new purchase orders manually."
+        ]
+    },
+    {
+        "Question Number": "18",
+        "Topic Number": "1",
+        "Question": "You work for a company that uses Dynamics 365 Finance.You are assisting a systems administrator with email con\u0000guration for the system. The system is currently con\u0000gured to prompt users for themanner in which they want to send emails according to the circumstance.Which of the following is the messaging tool you would use to create a \u0000le to send to a colleague for further personalization?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. The Dynamics 365 email client.",
+            "B. Outlook.",
+            "C. A third-party email service.",
+            "D. Microsoft Exchange server."
+        ]
+    },
+    {
+        "Question Number": "19",
+        "Topic Number": "1",
+        "Question": "You are employed as a system administrator for your company's Dynamics 365 Finance system.You developed a work \u0000ow in your testing environment. However, when you move the work\u0000ow to the production environment, the work\u0000ow entersa wait state.You have to get the work\u0000ow out of the wait state.Which of the following actions should you take?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "D"
+        ],
+        "Answers": [
+            "A. Con\u0000gure the work\u0000ow as critical job.",
+            "B. Con\u0000gure work item queues.",
+            "C. Con\u0000gure users for the work\u0000ow system.",
+            "D. Con\u0000gure the work\u0000ow execution account."
+        ]
+    },
+    {
+        "Question Number": "20",
+        "Topic Number": "1",
+        "Question": "You are employed as a system administrator for your company's Dynamics 365 Finance environment.You have been tasked with making sure that new personnel can use electronic signatures in their email.Which of the following actions should you take?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. You should enable Maintenance mode in Electronic signature requirements, and then choose the Electronic signature check box.",
+            "B. You should enable Maintenance mode in Electronic signature parameters, and then choose the Electronic signature check box.",
+            "C. You should enable Maintenance mode in License con\u0000guration, and then choose the Electronic signature check box.",
+            "D. You should enable Maintenance mode in Electronic signature parameters, and then choose the Electronic signature check box."
+        ]
+    },
+    {
+        "Question Number": "21",
+        "Topic Number": "1",
+        "Question": "Your company has intricate security prerequisites.You have been tasked with ascertaining the key characteristics for security roles, duties, privileges, and permissions with the aim of con\u0000guringsecurity access for users.Which of the following is TRUE with regards to duties? (Choose all that apply.)",
+        "Correct Answer": [
+            "A",
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "A",
+            "C"
+        ],
+        "Answers": [
+            "A. Duties correspond to parts of a business process.",
+            "B. Duties stipulate the level of access that is needed to perform a job, \u0000x a problem, or conclude an assignment.",
+            "C. Related duties can be assigned to separate roles.",
+            "D. Duties group the securable objects and access levels that are needed to execute a function."
+        ]
+    },
+    {
+        "Question Number": "22",
+        "Topic Number": "1",
+        "Question": "You are con\u0000guring Dynamics 365 Finance to make sure that the typical secure SMTP settings are used for sending email.You make sure that retention policies are enabled.Does this action ensure that secure SMTP settings are used?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "23",
+        "Topic Number": "1",
+        "Question": "You are con\u0000guring Dynamics 365 Finance to make sure that the typical secure SMTP settings are used for sending email.You make sure that In-place hold and Litigation hold are enabled.Does this action ensure that secure SMTP settings are used?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "24",
+        "Topic Number": "1",
+        "Question": "You are con\u0000guring Dynamics 365 Finance to make sure that the typical secure SMTP settings are used for sending email.You make sure that the Specify if SSL is required SMTP setting is selected.Does this action ensure that secure SMTP settings are used?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "25",
+        "Topic Number": "1",
+        "Question": "You are con\u0000guring Dynamics 365 Finance to make sure that the typical secure SMTP settings are used for sending email.You make sure that the SMTP port \u0000eld is set to 587.Does this action ensure that secure SMTP settings are used?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "26",
+        "Topic Number": "1",
+        "Question": "You are in the process of con\u0000guring \u0000scal calendars in \u0000nancial accounting.Which two of the following options are TRUE with regards to \u0000scal calendars?",
+        "Correct Answer": [
+            "A",
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "B",
+            "C"
+        ],
+        "Answers": [
+            "A. It is a non-compulsory setup.",
+            "B. It is a compulsory setup.",
+            "C. It can be used for a \u0000xed asset calendar.",
+            "D. It can be used for a procurement asset calendar."
+        ]
+    },
+    {
+        "Question Number": "27",
+        "Topic Number": "1",
+        "Question": "You are preparing to migrate data to Dynamics 365 Finance from a personalized version of a legacy application. A number of the \u0000elds in theentity are identical, while others vary.You want to automatically map as much \u0000elds as you can within Dynamics 365 Finance.You make use of the Mapping visualization tool.Does this action map the \u0000elds in Dynamics 365 Finance?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "28",
+        "Topic Number": "1",
+        "Question": "You are preparing to migrate to a Dynamics 365 Finance environment from Dynamics AX 2009.You plan to make use of the Data Import/Export Framework (DIXF) tool to create a data package from a group of entities in Dynamics AX 2009.Which of the following is TRUE with regards to Data Import/Export Framework (DIXF) tool?data, and perform any clean up or conversion that is needed.",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "D"
+        ],
+        "Answers": [
+            "A. It identi\u0000es tasks that you should do to prepare the AX 2012 environment.",
+            "B. It produces an upgraded version of your code and a report about the remaining con\u0000icts that must be resolved.",
+            "C. It helps you \u0000nd and \u0000ll gaps between the table schemas for each version, as well as helping you move your data.",
+            "D. It creates a staging table for each entity in the Microsoft Dynamics AX database where the target table resides, where you can validate the"
+        ]
+    },
+    {
+        "Question Number": "29",
+        "Topic Number": "1",
+        "Question": "Users import huge amounts of data into the system every day. You want to optimize the performance for the imports.You enable data import recurrence.Has your objective been met?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "30",
+        "Topic Number": "1",
+        "Question": "Users import huge amounts of data into the system every day. You want to optimize the performance for the imports.You enable change tracking for the data entities.Has your objective been met?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "31",
+        "Topic Number": "1",
+        "Question": "Users import huge amounts of data into the system every day. You want to optimize the performance for the imports.You con\u0000gure entity execution parameters to make the data import multi-threaded.Has your objective been met?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "32",
+        "Topic Number": "1",
+        "Question": "You are preparing to migrate data to a Dynamics 365 Finance environment from Dynamics AX 2009.You have to make sure that the data migration can be executed.Which of the following is TRUE with regards to this scenario?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. The current on-premises environment must \u0000rst be upgraded to Dynamics 365 Finance online.",
+            "B. The migration can run without upgrading the current on-premises environment.",
+            "C. The current on-premises environment must \u0000rst be upgraded to Dynamics AX 2012 R2.",
+            "D. The current on-premises environment must \u0000rst be upgraded to Dynamics AX 2009R3"
+        ]
+    },
+    {
+        "Question Number": "33",
+        "Topic Number": "1",
+        "Question": "You are preparing to migrate to a Dynamics 365 Finance environment from Dynamics AX 2012 R3.Lifecycle Services (LCS) and the included tools will be used for the migration.You want to make use of a tool that allows for the following:\u2711 Data to be cleaned up\u2711 SQL optimizations to be reviewed and con\u0000gured\u2711 Deprecated features in your code to be detected.Which of the following is the tool required?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "D"
+        ],
+        "Answers": [
+            "A. Microsoft Azure DevOps",
+            "B. Microsoft GitHub",
+            "C. Task recorder",
+            "D. Upgrade analyzer"
+        ]
+    },
+    {
+        "Question Number": "34",
+        "Topic Number": "1",
+        "Question": "Over the years your company has acquired a vast number of partnerships. The partnership information is currently saved in a legacy system.You export the partnership information to Microsoft Word format and generate Partnership and PartnershipGroup entities.You are now preparing to import the partnership information into Dynamics 365 for Finance.To achieve your goal, you need to convert the word \u0000les into a different format.Which of the following is the format that the word \u0000les should be converted to?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. ODT",
+            "B. CSV",
+            "C. RTF",
+            "D. HTML"
+        ]
+    },
+    {
+        "Question Number": "36",
+        "Topic Number": "1",
+        "Question": "You are preparing to migrate data to Dynamics 365 Finance from a personalized version of a legacy application. A number of the \u0000elds in theentity are identical, while others vary.You want to automatically map as much \u0000elds as you can within Dynamics 365 Finance.You create source mapping.Does this action map the \u0000elds in Dynamics 365 Finance?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "37",
+        "Topic Number": "1",
+        "Question": "You are preparing to migrate data to Dynamics 365 Finance from a personalized version of a legacy application. A number of the \u0000elds in theentity are identical, while others vary.You want to automatically map as much \u0000elds as you can within Dynamics 365 Finance.You make use of the Data task automation tool.Does this action map the \u0000elds in Dynamics 365 Finance?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "38",
+        "Topic Number": "1",
+        "Question": "You have been tasked with implementing new processes via mobile apps.You plan to create a mobile app that gives users the ability to consistently generate and alter data in a Finance and operations app data entity viaa business process \u0000ow component with a SiteMap to make the navigation structure available.Which of the following is the app type you should use?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Canvas app",
+            "B. Model-driven app",
+            "C. Portal",
+            "D. Xamarin"
+        ]
+    },
+    {
+        "Question Number": "39",
+        "Topic Number": "1",
+        "Question": "You have been tasked with restarting Internet Information Service (IIS) service in a nonproduction Tier 2 environment.You have signed in to Lifecycle Services (LCS), and selected the necessary environment.Which of the following is the page you should navigate to?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Project users",
+            "B. Environment details",
+            "C. Environment monitoring",
+            "D. System Administration parameters"
+        ]
+    },
+    {
+        "Question Number": "40",
+        "Topic Number": "1",
+        "Question": "You are developing a new Dynamics 365 Finance system for your company.You want to create test plans that members of your team can use to test code during the development of the system.You want to use a utility that will track and document test plans, as well as issues and their remediations.What utility should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. Task recorder for Finance and Operations apps",
+            "B. Business process modeler (BPM) Library",
+            "C. Microsoft Azure DevOps",
+            "D. Microsoft Power Platform.",
+            "E. Con\u0000guration data manager"
+        ]
+    },
+    {
+        "Question Number": "41",
+        "Topic Number": "1",
+        "Question": "Your company has Dynamics 365 Finance system.You are documenting the steps required to add a new customer to the system by using the Task Recorder utility. You want to add a credit checkstep that will be performed by a third-party app.You want the credit check step to be part of the documentation.How should you add the credit check step?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. Add the step as a Start sub-task",
+            "B. Add the step as an Action step",
+            "C. Add the step as an Info step",
+            "D. Add the step as a Queued Pending step"
+        ]
+    },
+    {
+        "Question Number": "42",
+        "Topic Number": "1",
+        "Question": "Your company has a Dynamics 365 Finance environment that has been extensively modi\u0000ed.Various users have begun complaining about a number of signi\u0000cant problems.A new hot\u0000x that will remedy these problems has become available. You want to make sure that the hot\u0000x does not disrupt any modi\u0000cations.You have downloaded the hot\u0000x from Lifecycle Services (LCS) and install the hot\u0000x in your Microsoft Azure DevOps application developmentenvironment in anActive state.Does this action indicate whether the hot\u0000x disrupts any modi\u0000cations or not?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "43",
+        "Topic Number": "1",
+        "Question": "Your company has a Dynamics 365 Finance environment that has been extensively modi\u0000ed.Various users have begun complaining about a number of signi\u0000cant problems.A new hot\u0000x that will remedy these problems has become available. You want to make sure that the hot\u0000x does not disrupt any modi\u0000cations.You have downloaded the hot\u0000x from Lifecycle Services (LCS) and install the hot\u0000x in your Microsoft Azure DevOps application developmentenvironment in anIdle state.Does this action indicate whether the hot\u0000x disrupts any modi\u0000cations or not?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "44",
+        "Topic Number": "1",
+        "Question": "Your company has a Dynamics 365 Finance environment that has been extensively modi\u0000ed.Various users have begun complaining about a number of signi\u0000cant problems.A new hot\u0000x that will remedy these problems has become available. You want to make sure that the hot\u0000x does not disrupt any modi\u0000cations.You have downloaded the hot\u0000x from Lifecycle Services (LCS) and install the hot\u0000x in your Microsoft Azure DevOps application developmentenvironment in aPending state.Does this action indicate whether the hot\u0000x disrupts any modi\u0000cations or not?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "1",
+        "Topic Number": "2",
+        "Question": "You are implementing Dynamics 365 Finance and evaluating reporting capabilities.The solution must allow business users to view cash \u0000ow forecasts as follows:\u2711 by region\u2711 across all legal entities\u2711 in a graphical representation from within Dynamics 365 FinanceYou need to select a tool to allow the business users to view the cash \u0000ow forecasts.Which tool should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "D"
+        ],
+        "Answers": [
+            "A. Microsoft Dataverse",
+            "B. Financial reporter",
+            "C. Power Automate",
+            "D. Power BI embedded workspace"
+        ]
+    },
+    {
+        "Question Number": "2",
+        "Topic Number": "2",
+        "Question": "A company delivers seafood to retail stores.Refrigeration trucks send temperature and distance data from Internet of Things (IoT) sensors over 5G. Data is written to an API endpoint inMicrosoft Azure. The temperature and distance data are stored in Common Data Service and edited in Dynamics 365 Finance.You create model-driven apps to visualize data. The apps support online and o\u0000ine modes.You must update the following:\u2711 the shipment information in Dynamics 365 Finance based on delivery distance and real-time temperature readings from trucks\u2711 the corresponding Common Data Service data with the latest shipment statusYou need to update shipment information.What should you use?",
+        "Correct Answer": [
+            "E"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Power Automate (Flow)",
+            "B. Azure IoT Edge",
+            "C. Azure IoT Central",
+            "D. Azure IoT Hub",
+            "E. Dual-write"
+        ]
+    },
+    {
+        "Question Number": "4",
+        "Topic Number": "2",
+        "Question": "You are implementing Dynamics 365 Finance.Local customer service agents answer phone calls from customers and vendors on invoices and payments. All conversations with customers andvendors are recorded and documented.Due to a quality assurance issue, not enough customer service agents are available to handle customer volume for invoices and payments.You need to implement a technology to answer customer questions for invoices and payments.Which technology should you use?",
+        "Correct Answer": [
+            "E"
+        ],
+        "Community Vote Distribution": [
+            "E"
+        ],
+        "Answers": [
+            "A. Dynamics 365 Finance Document Routing Agent",
+            "B. Microsoft Azure Cognitive Services Text to Speech",
+            "C. Microsoft Azure Cognitive Services Speech to Text",
+            "D. Dynamics 365 Finance Local Agent",
+            "E. Power Virtual Agents"
+        ]
+    },
+    {
+        "Question Number": "5",
+        "Topic Number": "2",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution.Determine whether the solution meets the stated goals. Some question sets might have more than one correct solution, while others might nothave a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance sales manager. You use a Power BI dashboard that shows near-real-time sales data from reports and tiles.It is impractical to keep switching between multiple applications.You need to con\u0000gure a way to access the Power BI reports within the Dynamics 365 Finance client.Solution: Include the Power BI reports in a Power BI App and pin the Power BI App to your workspace.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "10",
+        "Topic Number": "2",
+        "Question": "A company plans to implement the case management feature of Dynamics 365 Finance.You need to describe the scenarios in which you should use the case management tool.Which three scenarios should be used? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.con\u0000dential information about employees.",
+        "Correct Answer": [
+            "C",
+            "D",
+            "E"
+        ],
+        "Community Vote Distribution": [
+            "A",
+            "B",
+            "E"
+        ],
+        "Answers": [
+            "A. Since case activities can be assigned to different people, a case can use work\u0000ow.",
+            "B. Although the sales module already has return-order functionality, case management is still used for customer returns and claims.",
+            "C. Knowledge articles used by case management are associated with speci\u0000c functional modules.",
+            "D. A human resources generalist can use the case management tool to track employee interactions, even though the department stores",
+            "E. A case can be used to track both external and internal issues."
+        ]
+    },
+    {
+        "Question Number": "13",
+        "Topic Number": "2",
+        "Question": "A client runs Dynamics 365 Finance.The client wants to implement supply chain functionality that is fully integrated with the current Dynamics 365 Retail instance.You need to implement the new functionality.What should you do?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Integrate Dynamics 365 Retail with Dynamics 365 Finance by using Common Data Model.",
+            "B. Provision new instances of Dynamics 365 Finance and Dynamics 365 Supply Chain Management by using Lifecycle Services.",
+            "C. Clear the Dynamics 365 Finance con\u0000guration in the License con\u0000guration form.",
+            "D. Clear the Dynamics 365 Retail con\u0000guration in the License con\u0000guration form."
+        ]
+    },
+    {
+        "Question Number": "16",
+        "Topic Number": "2",
+        "Question": "A company needs to be able to search for given addresses and remove all personally identi\u0000able information about vendors, customers, andemployees who might be in their system.You need to identify a tool to quickly accomplish this.Which tool should you use?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Person search report",
+            "B. Global search reporting",
+            "C. GDPR request",
+            "D. Asset classi\u0000cation"
+        ]
+    },
+    {
+        "Question Number": "18",
+        "Topic Number": "2",
+        "Question": "A company implements Dynamics 365 Finance and sets up and con\u0000gures the system to support its reporting requirements using MicrosoftPower BI. A user creates a chart in her Power BI instance to display customer order patterns for the top 10 customers daily.You need to con\u0000gure the Power BI integration to pin the chart to the user's workspace in Dynamics 365 Finance.Which three actions should you perform? Each correct answer presents part of the solution.NOTE: Each correct selection is worth one point.to run the report.",
+        "Correct Answer": [
+            "A",
+            "C",
+            "E"
+        ],
+        "Community Vote Distribution": [
+            "A",
+            "C",
+            "E"
+        ],
+        "Answers": [
+            "A. In the Dynamics 365 Finance client, authorize sign-in to Power BI.",
+            "B. In Azure Active Directory, grant the customer services manager administrative permissions to the company's Azure Active Directory account",
+            "C. In Microsoft Azure Active Directory, add the PowerBI service to the app registration and grant the necessary delegated permissions.",
+            "D. In the Entity store, con\u0000gure the Application ID and Application key for PowerBI.",
+            "E. In the Dynamics 365 Finance System administration setup screen in PowerBI.com, con\u0000gure the application ID and application key."
+        ]
+    },
+    {
+        "Question Number": "20",
+        "Topic Number": "2",
+        "Question": "A company plans to create a global address book and additional address books for each line of business.You need to help add parties to the address books.Which two party types can you use for both the global address book and the additional address books? Each correct answer presents a completesolution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "B",
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "B",
+            "D"
+        ],
+        "Answers": [
+            "A. Customer",
+            "B. Person",
+            "C. Competitor",
+            "D. Organization",
+            "E. Vendor"
+        ]
+    },
+    {
+        "Question Number": "24",
+        "Topic Number": "2",
+        "Question": "You develop a Power Apps app that allows users to upload images. The app automatically resizes images and adds metadata tags to uploadedimages.The app must automatically tag images of checks within Dynamics 365 Finance. You must enable access to the Power App from Finance andpass a variable to indicate context to the app. Pop-up blockers are enabled on all user devices.You need to con\u0000gure the app.What are two possible ways to achieve the goal? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Add the app by using the Power Apps button on the standard Action pane.",
+            "B. Use JavaScript to open a modeless dialog. Pass the context with a querystring value.",
+            "C. Use JavaScript to open a new modal dialog. Pass the context with a querystring value.",
+            "D. Embed the app on a page as a FastTab.",
+            "E. Create a Power Automate \u0000ow that sends an email with a link to open the app."
+        ]
+    },
+    {
+        "Question Number": "25",
+        "Topic Number": "2",
+        "Question": "A company plans to create a new workspace.You need to design the workspace.Which three components are mandatory? Each correct answer presents part of a solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Related links",
+            "B. Summary section",
+            "C. Tabbed list",
+            "D. Power BI section",
+            "E. Section charts"
+        ]
+    },
+    {
+        "Question Number": "27",
+        "Topic Number": "2",
+        "Question": "A company wants to display a warehouse's performance metrics on a Power BI dashboard on a display in the warehouse.You need to connect the Power BI instance to the Dynamics 365 Supply Chain Management instance that the warehouse uses.Which three actions should you perform? Each correct answer presents part of the solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "C",
+            "E"
+        ],
+        "Community Vote Distribution": [
+            "A",
+            "C",
+            "E"
+        ],
+        "Answers": [
+            "A. Link Azure to Dynamics 365 Supply Chain Management by entering the Application ID in Dynamics 365 Supply Chain Management.",
+            "B. Register the precon\u0000gured Dynamics 365 service account within Azure.",
+            "C. Obtain Azure Active Directory (Azure AD) administrative access.",
+            "D. Con\u0000gure the Dynamics 365 Entity Store.",
+            "E. Register the Dynamics 365 application URL within Azure."
+        ]
+    },
+    {
+        "Question Number": "28",
+        "Topic Number": "2",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution.Determine whether the solution meets the stated goals. Some question sets might have more than one correct solution, while others might nothave a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance sales manager. You use a Power BI dashboard that shows near-real-time sales data from reports and tiles.It is impractical to keep switching between multiple applications.You need to con\u0000gure a way to access the Power BI reports within the Dynamics 365 Finance client.Solution: Create a link to the Power BI reports in your workspace.Does the solution meet the goal?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "29",
+        "Topic Number": "2",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution.Determine whether the solution meets the stated goals. Some question sets might have more than one correct solution, while others might nothave a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance sales manager. You use a Power BI dashboard that shows near-real-time sales data from reports and tiles.It is impractical to keep switching between multiple applications.You need to con\u0000gure a way to access the Power BI reports within the Dynamics 365 Finance client.Solution: Import the Power BI reports through Lifecycle Services and pin it to your workspace.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "30",
+        "Topic Number": "2",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution.Determine whether the solution meets the stated goals. Some question sets might have more than one correct solution, while others might nothave a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance sales manager. You use a Power BI dashboard that shows near-real-time sales data from reports and tiles.It is impractical to keep switching between multiple applications.You need to con\u0000gure a way to access the Power BI reports within the Dynamics 365 Finance client.Solution: Embed the Power BI reports on your application homepage.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "31",
+        "Topic Number": "2",
+        "Question": "A company uses Dynamics 365 Supply Chain Management. You plan to create four model-driven apps to add additional capabilities.You need to ensure that the apps can consume, share, and modify the same data.What should you use?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. Lifecycle Services",
+            "B. Master Data Services",
+            "C. Common Data Service",
+            "D. Power BI Service"
+        ]
+    },
+    {
+        "Question Number": "32",
+        "Topic Number": "2",
+        "Question": "A company implements Dynamics 365 Finance. The company uses business events to trigger sales order processes.The cutoff for shipping customer orders is 3:00 PM.You need to notify the warehouse manager in a Microsoft Teams channel whenever business events occur after 3:00 PM.Which tool should you use?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Power BI",
+            "B. Power Automate",
+            "C. Work\u0000ow framework",
+            "D. Power Virtual Agents"
+        ]
+    },
+    {
+        "Question Number": "36",
+        "Topic Number": "2",
+        "Question": "You implement Dynamics 365 Supply Chain Management. You have over 2,000 vendor records. You con\u0000gure vendor groups to differentiateinternational vendors from domestic vendors.You need to locate vendors in France with payment terms of 30 days.What should you do?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Use the global address book to locate the vendors.",
+            "B. Create an advanced \u0000lter on the All vendors list page.",
+            "C. Create a report \u0000ltered by vendor group.",
+            "D. Use a successive quick \u0000lter for vendor group and payment terms."
+        ]
+    },
+    {
+        "Question Number": "37",
+        "Topic Number": "2",
+        "Question": "You implement Dynamics 365 Finance.You must view the number of purchase orders that were received and not invoiced. The view must automatically update.You need to implement the view.What should you use?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. alerts",
+            "B. reports",
+            "C. workspace tiles",
+            "D. workspace lists"
+        ]
+    },
+    {
+        "Question Number": "38",
+        "Topic Number": "2",
+        "Question": "A company is implementing Dynamics 365 Finance.The company wants to use Power BI as a reporting solution. The reporting solution must be embedded into the workspace.You need to identify the data strategy that supports this requirement.What should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "D"
+        ],
+        "Answers": [
+            "A. Dual-write",
+            "B. Data management",
+            "C. Bring your own database (BYOD)",
+            "D. Entity store"
+        ]
+    },
+    {
+        "Question Number": "47",
+        "Topic Number": "2",
+        "Question": "A company that uses Dynamics 365 Finance has a new data entry team.The data entry team creates multiple records for a single contact.You need to recommend methods to minimize creation of multiple contacts that are the same.Which two options should you recommend? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "B",
+            "E"
+        ],
+        "Community Vote Distribution": [
+            "A",
+            "B"
+        ],
+        "Answers": [
+            "A. Set the Check for duplicate parameter.",
+            "B. Check for duplicates on the global address book list page.",
+            "C. Set the Delete parties with no roles parameter.",
+            "D. Assign parties in the global address book.",
+            "E. Set the secure by address book parameter."
+        ]
+    },
+    {
+        "Question Number": "48",
+        "Topic Number": "2",
+        "Question": "A company uses Dynamics 365 Supply Chain Management. The company has two legal entities, one in the United States and one in Canada.The Canada entity has a vendor that the US entity wants to order from directly. The US entity requires access to the vendor sales representativeinformation for order placement.You need to resolve the US access requirement.What should you do?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Associate the global address book party to the US company.",
+            "B. Create an intercompany relationship.",
+            "C. Create a new address book.",
+            "D. Set the secure by address book parameter."
+        ]
+    },
+    {
+        "Question Number": "2",
+        "Topic Number": "3",
+        "Question": "A hospital plans to deploy a new instance of Dynamics 365 Finance. New users are created regularly.You must add all employees as users of the system and assign the appropriate role to users.Employees who have the initials M.D. after their name must be added to the Medical Doctors role.You schedule the automatic role assignment batch job.You need to complete the role assignment.What should you do?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Add a rule with a query to add employees with M.D. initials to the Medical Doctors role.",
+            "B. Select a user who has M.D. in the name. Assign the Medical Doctors role. Repeat for each user.",
+            "C. Con\u0000gure segregation of duties for the M.D. roles.",
+            "D. Create a role with extended data security and assign it to the M.D. employees."
+        ]
+    },
+    {
+        "Question Number": "3",
+        "Topic Number": "3",
+        "Question": "You manage Dynamics 365 Supply Chain Management for a company.A user is unable to perform a critical business process. The user's permissions must be updated.You need to identify and resolve the user's missing permissions.Which feature should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "D"
+        ],
+        "Answers": [
+            "A. Business process modeler",
+            "B. Separation of duties",
+            "C. Data security policies",
+            "D. Security diagnostics for task recordings"
+        ]
+    },
+    {
+        "Question Number": "4",
+        "Topic Number": "3",
+        "Question": "An asset management company implements Dynamics 365 Finance.You need to evaluate the current security roles to ensure compliance.What should you use?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "D"
+        ],
+        "Answers": [
+            "A. Role-based security",
+            "B. Audit workbench",
+            "C. Segregation of duties con\u0000icts",
+            "D. Segregation of duties rules"
+        ]
+    },
+    {
+        "Question Number": "11",
+        "Topic Number": "3",
+        "Question": "You set up Dynamics 365 Finance.Your organization will use email with the application.You need to ensure that email will be sent using typical secure settings.What setting must be set up as speci\u0000ed?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. The SMTP port \u0000eld is set to 587.",
+            "B. Information rights management is enabled.",
+            "C. Encryption: S/MIME and PGP are enabled.",
+            "D. In-place eDiscovery is enabled."
+        ]
+    },
+    {
+        "Question Number": "12",
+        "Topic Number": "3",
+        "Question": "You are a Dynamics 365 Finance systems analyst.A user con\u0000gures an alert for purchase orders that have a delivery date of two weeks away. However, batch alerts are not being sent.You need to troubleshoot why alerts are not processing.What two actions may be the cause for alerts not being sent? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "C",
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "A",
+            "D"
+        ],
+        "Answers": [
+            "A. A batch processing window may be set up for that batch job.",
+            "B. The date format in the Dynamics 365 tenant does not match the format in the client device.",
+            "C. The change-based alert has expired.",
+            "D. There may not be a batch server assigned to the batch job."
+        ]
+    },
+    {
+        "Question Number": "16",
+        "Topic Number": "3",
+        "Question": "You are a Dynamics 365 Finance system administrator. You have production and testing environments. You move the work\u0000ow from the testingenvironment to the production environment.The work\u0000ow in the production environment is stuck in a wait state.You need to resolve the issue with the work\u0000ow in the production environment.What should you do?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Set the work\u0000ow batch job to critical",
+            "B. Set the work\u0000ow messaging batch job group",
+            "C. Grant the user work\u0000ow permissions",
+            "D. Set the work\u0000ow execution account in the work\u0000ow parameters"
+        ]
+    },
+    {
+        "Question Number": "17",
+        "Topic Number": "3",
+        "Question": "A company implements Dynamics 365 for Finance.They need additional information and want a subledger to record information for additional reporting rather than customizing all reports.You need to set up the posting to accommodate the need for a subledger.Which three actions should you take? Each answer presents part of the solution.",
+        "Correct Answer": [
+            "B",
+            "D",
+            "E"
+        ],
+        "Community Vote Distribution": [
+            "B",
+            "C",
+            "E"
+        ],
+        "Answers": [
+            "A. Update existing reports to prevent data in the identi\u0000ed area from reporting",
+            "B. Create posting pro\u0000les to post to the identi\u0000ed area as needed for the request",
+            "C. Create posting de\u0000nitions to post to the identi\u0000ed area as needed for the request",
+            "D. Update existing reports to add data in the identi\u0000ed area from reporting",
+            "E. Identify an area of the chart of accounts to record to as the subledger"
+        ]
+    },
+    {
+        "Question Number": "18",
+        "Topic Number": "3",
+        "Question": "You are a systems administrator at a company that has implemented Dynamics 365 Finance.New employees are starting at the company.You need to extend the electronic signatures functionality to them.Which two actions should you perform? Each answer presents part of the solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "C",
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. On the Email parameters page, specify that SSL is required",
+            "B. Specify the user's email address",
+            "C. In License con\u0000guration, enable Maintenance mode",
+            "D. Select the Electronic signature check box"
+        ]
+    },
+    {
+        "Question Number": "19",
+        "Topic Number": "3",
+        "Question": "You are a Dynamics 365 Finance system administrator.A company named Contoso Ltd. is creating a new legal entity that will be similar to an existing legal entity. Team members copy key entities to thenew legal entity using the Data management workspace. They indicate that there were already-con\u0000gured pieces of data unique to the new legalentity before they ran the Copy into legal entity process.The data import/export framework settings are listed in the table below:You need to determine what happened to the already-con\u0000gured pieces of data. What happened to the data?management workspace.",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Any source legal entity data that already exists in the destination legal entity will be updated.",
+            "B. Any source legal entity data that already exists in the destination legal entity will be displayed as an error for user action in the Data",
+            "C. Any destination legal entity data will be deleted, and the source data will be inserted.",
+            "D. Any source legal entity data that already exists in the destination legal entity will be ignored."
+        ]
+    },
+    {
+        "Question Number": "20",
+        "Topic Number": "3",
+        "Question": "A user with minimal privileges forgets to enter customer payments for the previous 15 days.The user needs to enter all the payments using a previous date instead of the current date.What should the user do?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Change the date of the user session in the session date form.",
+            "B. Change the system date on the user's operating system and restart the browser.",
+            "C. Change the date of the customer payment journal header.",
+            "D. Change the system date of the Application Object Server (AOS) in system administration."
+        ]
+    },
+    {
+        "Question Number": "23",
+        "Topic Number": "3",
+        "Question": "You are a systems administrator for a Dynamics 365 Finance environment.You need to con\u0000gure an alert to notify the person responsible for deliverables that production may be delayed and deliveries to production arepostponed.For which object should you con\u0000gure the alert?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Product",
+            "B. Purchase order",
+            "C. Inventory location",
+            "D. Inventory control"
+        ]
+    },
+    {
+        "Question Number": "26",
+        "Topic Number": "3",
+        "Question": "You are a Dynamics 365 Finance system administrator.The expense department relies heavily on properly operating work\u0000ows. If there is a failure in the work\u0000ow, the issue needs to get resolvedquickly.You need to make sure that the system actively tracks the status, so the support team can monitor and take actions against any failures.What should you do? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "B",
+            "C",
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "A",
+            "B",
+            "D"
+        ],
+        "Answers": [
+            "A. Set the monitoring category of the Work\u0000ow message processing batch job to Work\u0000ow.",
+            "B. Set the critical job \u0000ag of the Work\u0000ow message processing batch job to True.",
+            "C. Set the Ignore task failure \u0000ag of the Work\u0000ow message processing batch job to False.",
+            "D. Set the batch job named Work\u0000ow message processing to send an email when the status of the batch job is Error.",
+            "E. Set the priority \u0000eld of the Work\u0000ow message processing batch job to 1."
+        ]
+    },
+    {
+        "Question Number": "27",
+        "Topic Number": "3",
+        "Question": "You set up security roles for the users in a company.You must use standard security roles when possible.You need to identify the standard security roles.Which of the following can you assign to a user as a standard security role?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Waterspider",
+            "B. System engineer",
+            "C. Developer",
+            "D. Business development manager"
+        ]
+    },
+    {
+        "Question Number": "29",
+        "Topic Number": "3",
+        "Question": "A multinational company plans to implement centralized procurement using purchase requisition work\u0000ows.Multiple work\u0000ows must be of the same type. Each region must use its own purchase requisition work\u0000ow.You need to implement the work\u0000ows.What should you do?",
+        "Correct Answer": [
+            "E"
+        ],
+        "Community Vote Distribution": [
+            "E"
+        ],
+        "Answers": [
+            "A. Con\u0000gure Instructions for users",
+            "B. Con\u0000gure the work\u0000ow owner",
+            "C. Con\u0000gure automated tasks",
+            "D. Con\u0000gure manual tasks",
+            "E. Add a condition for running the work\u0000ow"
+        ]
+    },
+    {
+        "Question Number": "30",
+        "Topic Number": "3",
+        "Question": "A company implements Dynamics 365 Finance.You have a requirement that the component data for address structure in the system be available in Portuguese (Brazil).You need to provide address and contact information in Portuguese.What should you do?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Under Organization administration, on the Global addresses tab, enter the appropriate translation value in the translations form",
+            "B. In User options, set the language preference to Portuguese pt-BR and enter addresses for customers and vendors",
+            "C. Upload \u0000les to Dynamics 365 Translation Services (DTS) for conversion",
+            "D. Apply return from Dynamics 365 Translation Services (DTS) to the system by submitting a support ticket"
+        ]
+    },
+    {
+        "Question Number": "31",
+        "Topic Number": "3",
+        "Question": "A company plans to set up an organizational hierarchy to manage organizational relationships.You need to identify which organizational purpose to use.What purpose can you assign to an organizational hierarchy?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Financial reason code",
+            "B. Centralized payments",
+            "C. Cost accounting",
+            "D. Price models"
+        ]
+    },
+    {
+        "Question Number": "36",
+        "Topic Number": "3",
+        "Question": "You are a Dynamics 365 Finance security administrator.Users are reporting that they cannot access a given form in the system.You need to quickly identify what roles, duties, and privileges grant access to this form to determine the best course of action for granting access.What should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "D"
+        ],
+        "Answers": [
+            "A. Security duty assignments report",
+            "B. Security role access report",
+            "C. Security development tool",
+            "D. Security diagnostics",
+            "E. Maintenance mode"
+        ]
+    },
+    {
+        "Question Number": "37",
+        "Topic Number": "3",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance security administrator.When testing security setups, users report that certain roles are gaining access to sensitive information via a form in the system.You must investigate which user roles have what visibility and access level to system objects, and then send a report to the implementation teamto address security compliance concerns.You need to report the information from the system.Solution: Generate the User role assignments report.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "38",
+        "Topic Number": "3",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance security administrator.When testing security setups, users report that certain roles are gaining access to sensitive information via a form in the system.You must investigate which user roles have what visibility and access level to system objects, and then send a report to the implementation teamto address security compliance concerns.You need to report the information from the system.Solution: Generate the Security role access report.Does the solution meet the goal?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "39",
+        "Topic Number": "3",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance security administrator.When testing security setups, users report that certain roles are gaining access to sensitive information via a form in the system.You must investigate which user roles have what visibility and access level to system objects, and then send a report to the implementation teamto address security compliance concerns.You need to report the information from the system.Solution: Generate the Role to user assignments report.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "51",
+        "Topic Number": "3",
+        "Question": "A company uses Dynamics 365 Finance.User1 is an approver of expense reports. User1 will be on vacation next week.You need to con\u0000gure the system to assign a user named User2 temporary permissions to review and approve expense report submissions whileUser1 is on vacation.What should you do?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. Assign User2 as the approver for expense reports using the work\u0000ow designer.",
+            "B. Assign User2 the same user security roles as User1.",
+            "C. Create a delegation rule for User1 for the duration of the vacation period.",
+            "D. Create a delegation rule for User2 for the duration of the vacation period."
+        ]
+    },
+    {
+        "Question Number": "53",
+        "Topic Number": "3",
+        "Question": "You set up Dynamics 365 Finance.Your organization will use email with the application.You need to ensure that email will be sent using typical secure settings.What setting must be set up as speci\u0000ed?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "D"
+        ],
+        "Answers": [
+            "A. In-place eDiscovery is enabled.",
+            "B. Retention policies are enabled.",
+            "C. In-place hold and Litigation hold are enabled.",
+            "D. Specify if SSL is required is selected."
+        ]
+    },
+    {
+        "Question Number": "54",
+        "Topic Number": "3",
+        "Question": "You are a Dynamics 365 Finance system administrator for a United States-based corporation that is expanding to other regions.You set up a new legal entity for Brazil.You need to enable localization for Brazil in the new legal entity.What should you do?",
+        "Correct Answer": [
+            "E"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Create a new Lifecycle Services project.",
+            "B. Create a new legal entity with the Brazil o\u0000ce address in the system, and then set preferences according to the user.",
+            "C. Create a new con\u0000guration key and associate it with Brazil localization.",
+            "D. Create a new entity in the system with your corporate address and set the user language preferences for Brazil.",
+            "E. Create a new entity with your corporate address in the system, and then update the address to the Brazil o\u0000ce address."
+        ]
+    },
+    {
+        "Question Number": "55",
+        "Topic Number": "3",
+        "Question": "You are responsible for automation efforts in a Dynamics 365 Finance environment.You are running into performance issues on a speci\u0000c Application Object Server (AOS) that is over-used.You need to alter your batch processing of high-demand items to have a\u0000nity to a new AOS server.Which batch processing component should you change?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Batch group",
+            "B. Batch periods",
+            "C. Batch task",
+            "D. Batch job"
+        ]
+    },
+    {
+        "Question Number": "64",
+        "Topic Number": "3",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance system administrator.Users report that purchase order numbers are being generated in a non-continuous con\u0000guration during bulk purchase order creation.You need to determine how to improve performance.Solution: Run the automatic cleanup of number sequences job.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "65",
+        "Topic Number": "3",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance system administrator.Users report that purchase order numbers are being generated in a non-continuous con\u0000guration during bulk purchase order creation.You need to determine how to improve performance.Solution: Create a new number sequence using the number sequence wizard.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "66",
+        "Topic Number": "3",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance system administrator.Users report that purchase order numbers are being generated in a non-continuous con\u0000guration during bulk purchase order creation.You need to determine how to improve performance.Solution: Enable Preallocation for the purchase order number sequence.Does the solution meet the goal?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "68",
+        "Topic Number": "3",
+        "Question": "You assign security roles to users in your company. The security roles contain one or more duty assignments.The purchasing manager role must be able to view payment journals.You need to edit the security con\u0000guration to meet the requirement.What should you do?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Edit the duty to view only on the payment journal. The duty is assigned to the purchasing manager role.",
+            "B. Edit the existing role and assign the View payment journal transactions permission level.",
+            "C. Create a new privilege. Assign the View only permission to the privilege. Then assign the privilege to the user.",
+            "D. Create a new security role. Create a purchasing manager duty and assign it to that role. Then assign the duty to the user."
+        ]
+    },
+    {
+        "Question Number": "69",
+        "Topic Number": "3",
+        "Question": "A company implements Dynamics 365 Finance.The company's purchasing agents must be able to create purchase orders for a \u0000rst-time vendor.All new vendor requests must be reviewed and approved by the accounts payable manager.A work\u0000ow must send an email to the accounts payable manager and the senior accounts payable clerk notifying both when a vendor applicationis waiting for approval. The work\u0000ow must be con\u0000gured to account for people changing job roles.You need to con\u0000gure the system to meet these requirements.What should you do?list.from the list.",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. On the Recipient tab, select Work\u0000ow user. Then, select the role for vendor approval from the list.",
+            "B. On the Recipient tab, select Participant. Then, select the role for vendor approval from the list.",
+            "C. On the Recipient tab, select User. Then, select the users for the accounts payable manager and the senior accounts payable clerk from the",
+            "D. On the Recipient tab, select Work\u0000ow user. Then, select the user for purchasing agents from the list.",
+            "E. On the Recipient tab, select User. Then, select the role for vendor approval from the list.",
+            "F. On the Recipient tab, select Participant. Then, select the users for the accounts payable manager and the senior accounts payable clerk"
+        ]
+    },
+    {
+        "Question Number": "71",
+        "Topic Number": "3",
+        "Question": "A client uses Dynamics 365 Finance.You need to con\u0000gure a work\u0000ow to allow users to approve or deny work\u0000ow tasks from outside the system.What should you con\u0000gure?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. a business event and a Microsoft PowerApps work\u0000ow",
+            "B. a standard noti\u0000cation in work\u0000ows",
+            "C. a standard date-based alert",
+            "D. a business event a Microsoft Flow work\u0000ow",
+            "E. a standard changed-based alert"
+        ]
+    },
+    {
+        "Question Number": "72",
+        "Topic Number": "3",
+        "Question": "You set up security roles for the users in a company.You must use standard security roles when possible.You need to identify the standard security roles.Which of the following can you assign to a user as a standard security role?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Accounting manager",
+            "B. Alliance manager",
+            "C. Developer",
+            "D. Business development manager"
+        ]
+    },
+    {
+        "Question Number": "82",
+        "Topic Number": "3",
+        "Question": "You need to ensure that employees can submit and approve their own Dynamics 365 Finance work\u0000ow requests.What are two possible ways to achieve this goal? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "C",
+            "E"
+        ],
+        "Community Vote Distribution": [
+            "C",
+            "E"
+        ],
+        "Answers": [
+            "A. Add the employees to the work\u0000ow administrator security role.",
+            "B. Add the employees to Azure Active Directory (Azure AD) as domain administrators.",
+            "C. Add the employees as an approver to the work\u0000ow action.",
+            "D. Create a modi\u0000cation in the code that allows employees to modify work\u0000ows.",
+            "E. Clear the Disallow approval by submitter check box."
+        ]
+    },
+    {
+        "Question Number": "85",
+        "Topic Number": "3",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance security administrator.When testing security setups, users report that certain roles are gaining access to sensitive information via a form in the system.You must investigate which user roles have what visibility and access level to system objects, and then send a report to the implementation teamto address security compliance concerns.You need to report the information from the system.Solution: Generate the Security duty assignments report.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "87",
+        "Topic Number": "3",
+        "Question": "A company implements Dynamics 365 Finance.The company wants to utilize Case management to track project issues and risks and associate them to the projects. Project managers will beresponsible for managing the new cases.You need to con\u0000gure the system.What should you do?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "D"
+        ],
+        "Answers": [
+            "A. Create case category security roles named Issue and Risk and assign them to the Project managers duty.",
+            "B. Create case activities for Issue and Risk",
+            "C. Create parent case categories named Issue and Risk",
+            "D. Create case subcategories named Issue and Risk"
+        ]
+    },
+    {
+        "Question Number": "88",
+        "Topic Number": "3",
+        "Question": "A company implements Dynamics 365 Finance.You are the primary approver for purchase requisitions that are greater than $500,000. You are going on vacation for two weeks.You need to assign another user as the approver only for purchase requisitions greater than $500,000.What should you do?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. Under User Options, add a user and assign the scope of Module",
+            "B. Under User Options, add a user and assign the scope of All",
+            "C. Under User Options, add a user and assign the scope of Work\u0000ow"
+        ]
+    },
+    {
+        "Question Number": "89",
+        "Topic Number": "3",
+        "Question": "You are a Dynamics 365 Finance system administrator.You have 50 identi\u0000ed purchase order numbers that are not used in the system and are not being recycled. Why they are missing is unknown.Purchasing operations is currently operating around the clock and no downtime can occur.You need to use the missing numbers in the system.What should you do?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. Run the Number sequence wizard for the purchase order number sequence",
+            "B. Change the number sequence to continuous and create the new purchase orders",
+            "C. Run Automatic cleanup of number sequence and create the new purchase orders",
+            "D. Change the number sequence to non-continuous and create the new purchase orders",
+            "E. Change the number sequence to manual, then manually assign the number sequences to the new purchase orders"
+        ]
+    },
+    {
+        "Question Number": "90",
+        "Topic Number": "3",
+        "Question": "You are asked to trigger a Power Automate \u0000ow for an approval for a business process that is not in the business events list.You need to trigger the Power Automate \u0000ow without any code.What are two possible ways to trigger the Power Automate work\u0000ow? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "A",
+            "B"
+        ],
+        "Answers": [
+            "A. from a due date alert",
+            "B. from a change-based alert",
+            "C. from a component in the Dynamics 365 Finance Work\u0000ow Designer",
+            "D. from an application business event",
+            "E. from a user's personalization functionality"
+        ]
+    },
+    {
+        "Question Number": "96",
+        "Topic Number": "3",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance system administrator.Users report that purchase order numbers are being generated in a non-continuous con\u0000guration during bulk purchase order creation.You need to determine how to improve performance.Solution: Change the number sequence to a continuous number sequence.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "97",
+        "Topic Number": "3",
+        "Question": "You are working as a functional consultant in a new Dynamics 365 Finance environment.Your organization conducts business within the United States, with o\u0000ces in several states. The organization has legal entities de\u0000ned for eachstate and must share common tables between entities.Each legal entity has the following setup:\u2711 Users\u2711 Products\u2711 Customers\u2711 Tax authorities\u2711 Payment terms\u2711 Human Resources data\u2711 Site-speci\u0000c stock orderingYou need to consolidate reports used for \u0000nancial-consolidation reporting in a new legal entity.What should you do?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. De\u0000ne the consolidation period",
+            "B. Specify the range of product for consolidation",
+            "C. De\u0000ne Human Resources data",
+            "D. Create users"
+        ]
+    },
+    {
+        "Question Number": "100",
+        "Topic Number": "3",
+        "Question": "You are the administrator of a Dynamics 365 Finance system.Messages sent from the system exceed the sending limits of the Microsoft 365 Exchange Online service.You need to prevent sending limits from being exceeded.What should you con\u0000gure?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Email distributor batch job",
+            "B. Email throttling",
+            "C. Throttling priority mappings",
+            "D. Attachment size limits"
+        ]
+    },
+    {
+        "Question Number": "101",
+        "Topic Number": "3",
+        "Question": "Dynamics 365 Finance is implemented at your company.Users in the accounts payable roles and inventory management roles can edit the general ledger details for all departments. These roles must notbe able to change the inventory on hand or be able to pay a parts supplier. The users have physical access to warehouses.You attempt to remove the users from the roles and see that the users are then added back to the roles.Users must not be able to be added to both roles. Users in a single role must be able to perform their duties.You need to ensure that users are assigned to the proper roles.What are two possible ways to achieve this goal? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "B",
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C",
+            "E"
+        ],
+        "Answers": [
+            "A. Remove the privileges from the roles.",
+            "B. Include the users in automatic assignment.",
+            "C. Set up segregation of duties for the users.",
+            "D. Remove segregation of duties for the users.",
+            "E. Exclude the users from automatic assignment."
+        ]
+    },
+    {
+        "Question Number": "102",
+        "Topic Number": "3",
+        "Question": "You set up Dynamics 365 Finance.Your organization will use email with the application.You need to ensure that email will be sent using typical secure settings.What setting must be set up as speci\u0000ed?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": [
+            "D"
+        ],
+        "Answers": [
+            "A. Information rights management is enabled.",
+            "B. Retention policies are enabled.",
+            "C. Encryption between on-premises servers and Exchange Online Archiving is enabled.",
+            "D. Specify if SSL is required is selected."
+        ]
+    },
+    {
+        "Question Number": "103",
+        "Topic Number": "3",
+        "Question": "A company uses Dynamics 365 Supply Chain Management.A batch job that is running in the production environment must be canceled.You attempt to cancel the batch job. The batch job is not canceled within a reasonable time period.You need to force the batch job to stop processing.What should you do?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Use the Abort function on the batch task.",
+            "B. Update the recurrence of the batch job.",
+            "C. Set the status of the batch job to Withhold.",
+            "D. Delete the batch job."
+        ]
+    },
+    {
+        "Question Number": "104",
+        "Topic Number": "3",
+        "Question": "A company that sells, rents, and services heating, ventilation, and air conditioning (HVAC) systems implements Dynamics 365 Supply ChainManagement.When a maintenance request is created for a condenser unit, the request must be reviewed and approved before a work order is created. You mustsend both an email message and a text message to the reviewer for each maintenance request.You need to con\u0000gure the system.Which two options should you con\u0000gure? Each answer represents part of the solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "A",
+            "E"
+        ],
+        "Answers": [
+            "A. Business events",
+            "B. Power Apps apps",
+            "C. Standard work\u0000ows",
+            "D. Workspaces",
+            "E. Power Automate \u0000ows"
+        ]
+    },
+    {
+        "Question Number": "107",
+        "Topic Number": "3",
+        "Question": "A company uses Dynamics 365 Finance. You con\u0000gure a standard work\u0000ow for travel requisitions approvals. You con\u0000gure the work\u0000ow whichrequires a single approver. You con\u0000gure a pool of \u0000ve managers to approve all travel requisitions.Managers must submit their own travel requisitions. A separate manager must approve the travel requisition.You need to ensure the system prevents managers from approving their own travel requisitions.What should you do?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Create an escalation path for the Approve travel requisition step of the travel requisition work\u0000ow.",
+            "B. Con\u0000gure an activation condition on the travel requisition work\u0000ow to prevent activation for managers.",
+            "C. Set the value of the Disallow approval by submitter option to Yes.",
+            "D. Con\u0000gure a condition to prevent the approval step from running when the originator is a manager."
+        ]
+    },
+    {
+        "Question Number": "109",
+        "Topic Number": "3",
+        "Question": "A company uses Dynamics 365 Finance. The company uses a number sequence named GenJml_01 for general journal vouchers. The numbersequence is con\u0000gured as follows:A user receives the following error message when creating a new general journal: Number sequence GenJrn_01 has been exceeded.You need to update the con\u0000guration of the number sequence to resolve the error.Which two actions should you perform? Each correct answer presents pan of the solution.NOTE: Each correct selection it worth one point.",
+        "Correct Answer": [
+            "B",
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Update Allow user changes to a higher number to Yes.",
+            "B. Update the number format to GNJL#####.",
+            "C. Update the Next number allocation to 1.",
+            "D. Update the Largest number allocation to 99999.",
+            "E. Update the Smallest number allocation to 1000."
+        ]
+    },
+    {
+        "Question Number": "110",
+        "Topic Number": "3",
+        "Question": "A company is implementing Dynamics 365 Supply Chain Management.The company has a customer who is also a vendor. If the customer's address changes, the company must make a single change. The changemust be re\u0000ected for both the customer and vendor records.You need to con\u0000gure the system for the customer and vendor address.What should you do?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Create separate party records with a single relationship de\u0000ned between them.",
+            "B. Create separate party records for both the customer and vendor records.",
+            "C. Create a single party record linked to both the customer and vendor records.",
+            "D. Create a single contact that is shared between the customer and vendor records."
+        ]
+    },
+    {
+        "Question Number": "112",
+        "Topic Number": "3",
+        "Question": "A company plans to use Dynamics 365 Supply Chain Management.The company requires several integrations that must be asynchronous and periodic. The company must determine which components exist out ofthe box that can be used in those integrations without custom development.You need to identify where to get a list of the integration components.Which component can you use to retrieve a list?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Active document tables form",
+            "B. Technical reference report scripts",
+            "C. Process Automation form",
+            "D. Business events catalog"
+        ]
+    },
+    {
+        "Question Number": "113",
+        "Topic Number": "3",
+        "Question": "You set up Dynamics 365 Finance.Your organization will use email with the application.You need to ensure that email will be sent using typical secure settings.What setting must be set up as speci\u0000ed?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Specify if SSL is required is selected.",
+            "B. In-place eDiscovery is enabled.",
+            "C. In-place hold and Litigation hold are enabled.",
+            "D. Information rights management is enabled."
+        ]
+    },
+    {
+        "Question Number": "1",
+        "Topic Number": "4",
+        "Question": "A company is implementing Dynamics 365 Finance.You must load con\u0000guration data from a previous version of Dynamics 365 Finance. You extract data from the previous system into a MicrosoftExcel workbook.Each worksheet contains setup and con\u0000guration data that correlates to a speci\u0000c data entity.You load sites and warehouses from the worksheets into the data entities.Another user makes changes to the workbook.You need to load the updated version of the workbook into the current data project.What should you do?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Use the existing entities.",
+            "B. Run the Run project option.",
+            "C. Replace the existing entities.",
+            "D. Select the Resequence button."
+        ]
+    },
+    {
+        "Question Number": "2",
+        "Topic Number": "4",
+        "Question": "A company is using dual-write to synchronize customer data between Dynamics 365 Sales and Dynamics 365 Finance.During an unplanned maintenance window for Dynamics 365 Finance, synchronization of customer data was interrupted. The interruption causedmultiple errors and a loss of new requests.You need to prevent errors and data loss from recurring.What should you do?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Enable an alert condition.",
+            "B. Use catch-up errors.",
+            "C. Skip initial sync.",
+            "D. Select re run execution."
+        ]
+    },
+    {
+        "Question Number": "3",
+        "Topic Number": "4",
+        "Question": "A company is starting to implement Dynamics 365 Finance.The company has identi\u0000ed several data entities that are needed for an integration with other systems. The company has already enabled anddisabled several con\u0000guration keys in the environment but nothing else has been con\u0000gured.You need to determine whether the necessary data entities can still be used for the integrations.What should you do?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Run Entity store refresh",
+            "B. Use the Data validation checklist workspace",
+            "C. Run the Data entity wizard",
+            "D. Run Entity list refresh"
+        ]
+    },
+    {
+        "Question Number": "7",
+        "Topic Number": "4",
+        "Question": "You are implementing Dynamics 365 Supply Chain Management. You have a CSV \u0000le that contains two million records.You need to import the \u0000le into Dynamics 365 Supply Chain Management without manual manipulation of the data.What should you use?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Data management import job",
+            "B. Microsoft Excel Add-In",
+            "C. Classic data integration",
+            "D. Microsoft SQL Server Integration Services"
+        ]
+    },
+    {
+        "Question Number": "9",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You have the following Dynamics 365 Finance instances:You must copy the con\u0000guration data from CompanyA to CompanyB.Solution: Use dual-write to copy the con\u0000guration data.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "10",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance system administrator. You have a test environment that is used by several people at any given time.You create a new data entity in your development environment and migrate the code to the test environment. In the test environment, you areunable to \u0000nd the data entity in the list.You need to locate the data entity.Solution: Enable the Public API check box in the data entity.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "13",
+        "Topic Number": "4",
+        "Question": "You are a Dynamics 365 Finance system administrator.Data is being migrated from a customized version of a legacy application to Dynamics 365 Finance. Some of the \u0000elds in the entity are the same,and some are different.As a starting point, you need to automatically map as many \u0000elds as possible within Dynamics 365 Finance.Which feature or tool should you use?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Use the Mapping visualization tool",
+            "B. Generate source mapping",
+            "C. Use Data templates",
+            "D. Use the Data task automation tool",
+            "E. Copy con\u0000guration data"
+        ]
+    },
+    {
+        "Question Number": "14",
+        "Topic Number": "4",
+        "Question": "You plan the migration from Dynamics AX 2009 to a Dynamics 365 Finance environment.You will be moving data.You need to create a data package from a group of entities in Dynamics AX 2009.What should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Upgrade analyzer",
+            "B. Code upgrade estimation tools",
+            "C. Dynamics AX 2009 Data migration tool (DMT)",
+            "D. Data Import/Export Framework (DIXF)"
+        ]
+    },
+    {
+        "Question Number": "18",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are developing a \u0000le-based integration to Dynamics 365 Finance.Microsoft Excel \u0000les with 15,000 or more records need to be imported into the system periodically by individual users. The records need to beimported in full within a 5-minute approved window.You need to determine how to accomplish the import into the system.Solution: Import the data by using the Application Integration Framework.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "19",
+        "Topic Number": "4",
+        "Question": "You are a Dynamics 365 Finance system administrator.You manage a system that imports a large volume of sales orders from multiple systems daily. The system encounters a performance problemdue to the amount of data.You need to improve performance for the import.What should you do?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Create an ODBC-type source data format and import directly from the database.",
+            "B. Enable data import in recurrence.",
+            "C. Con\u0000gure entity execution parameters to make the data import multi-threaded.",
+            "D. Enable change tracking for the data entities."
+        ]
+    },
+    {
+        "Question Number": "20",
+        "Topic Number": "4",
+        "Question": "You plan a data migration from Dynamics AX 2009 to a Dynamics 365 Finance environment.You need to ensure that you can perform the data migration.What should you do \u0000rst?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Upgrade the existing on-premises environment to Dynamics 365 Finance online",
+            "B. Migrate content to Dynamics POS (Point-of-Sale) 2009",
+            "C. Upgrade the existing on-premises environment to Dynamics AX 2012 R2",
+            "D. Migrate content to Dynamics 365 Business Central"
+        ]
+    },
+    {
+        "Question Number": "21",
+        "Topic Number": "4",
+        "Question": "You plan the migration from Dynamics AX 2012 R3 to a Dynamics 365 Finance environment.You will be using Lifecycle Services (LCS) and the tools provided with it.You need to clean up data, review and con\u0000gure SQL optimizations, and identify deprecated features in your code.What tool should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Microsoft Azure DevOps",
+            "B. Code upgrade estimation tools",
+            "C. Data Import/Export Framework (DIXF)",
+            "D. Upgrade analyzer"
+        ]
+    },
+    {
+        "Question Number": "25",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You have the following Dynamics 365 Finance instances:You must copy the con\u0000guration data from CompanyA to CompanyB.Solution: Export from CompanyA. Import to CompanyB.Does the solution meet the goal?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "29",
+        "Topic Number": "4",
+        "Question": "A customer maintains a single database that will be used to create a template that includes \u0000nal con\u0000guration data for a Dynamics 365 SupplyChain Management implementation.The database must contain all data required to enter sales and purchase orders into the system, including the customer and vendor data. Youmust exclude historical and open order data from the database build.You need to ensure that the database includes only the relevant data.Which three types of entity data should you use? Each correct answer presents part of the solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "B",
+            "C",
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Document",
+            "B. Reference",
+            "C. Parameter",
+            "D. Master",
+            "E. Transaction"
+        ]
+    },
+    {
+        "Question Number": "33",
+        "Topic Number": "4",
+        "Question": "A company implements Dynamics 365 Finance.You need to schedule a recurring general journal import.What should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Data integrator",
+            "B. Common Data Service",
+            "C. Microsoft Excel add-in",
+            "D. Data Import Export Framework",
+            "E. Dual-write"
+        ]
+    },
+    {
+        "Question Number": "37",
+        "Topic Number": "4",
+        "Question": "You plan the migration from a Dynamics AX 2012 to a Dynamics 365 Finance environment.You are tasked with overseeing and planning a cutover to guarantee a smooth experience for end users during the cutover. You perform a basicdata upgrade validation.You need to perform a cutover.Which three tasks must you perform? Each correct answer presents part of the solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "B",
+            "D",
+            "E"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Enable the Microsoft Power BI AppSource content packs for Cost management, Financial performance, and Retail channel performance.",
+            "B. Copy the upgraded database from the sandbox environment into the production environment.",
+            "C. Ensure that Synchronous transfer mode is enabled.",
+            "D. Perform a smoke test.",
+            "E. Complete application setup tasks."
+        ]
+    },
+    {
+        "Question Number": "38",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance system administrator. You have a test environment that is used by several people at any given time.You create a new data entity in your development environment and migrate the code to the test environment. In the test environment, you areunable to \u0000nd the data entity in the list.You need to locate the data entity.Solution: Restart the Application Object Server (AOS) of the test environment.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "39",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are developing a \u0000le-based integration to Dynamics 365 Finance.Microsoft Excel \u0000les with 15,000 or more records need to be imported into the system periodically by individual users. The records need to beimported in full within a 5-minute approved window.You need to determine how to accomplish the import into the system.Solution: Import the data by using the recurring data integrations API.Does the solution meet the goal?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "40",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are developing a \u0000le-based integration to Dynamics 365 Finance.Microsoft Excel \u0000les with 15,000 or more records need to be imported into the system periodically by individual users. The records need to beimported in full within a 5-minute approved window.You need to determine how to accomplish the import into the system.Solution: Import the data by using the Data Management Framework's package API.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "41",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are developing a \u0000le-based integration to Dynamics 365 Finance.Microsoft Excel \u0000les with 15,000 or more records need to be imported into the system periodically by individual users. The records need to beimported in full within a 5-minute approved window.You need to determine how to accomplish the import into the system.Solution: Import the data by using the Excel Add-in.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "42",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance system administrator. You have a test environment that is used by several people at any given time.You create a new data entity in your development environment and migrate the code to the test environment. In the test environment, you areunable to \u0000nd the data entity in the list.You need to locate the data entity.Solution: Reopen the client browser.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "43",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a Dynamics 365 Finance system administrator. You have a test environment that is used by several people at any given time.You create a new data entity in your development environment and migrate the code to the test environment. In the test environment, you areunable to \u0000nd the data entity in the list.You need to locate the data entity.Solution: In the Data management framework parameter screen, refresh the Entity list.Does the solution meet the goal?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "45",
+        "Topic Number": "4",
+        "Question": "A company implements Dynamics 365 Finance and Dynamics 365 Customer Service.For which two scenarios can you use Dual Write? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Synchronize customer data between both Dynamics 365 systems.",
+            "B. Import customers from an older system.",
+            "C. Synchronize customer data between Dynamics 365 Finance and Microsoft Azure Data Lake.",
+            "D. Support o\u0000ine catch-up of data synchronization between systems."
+        ]
+    },
+    {
+        "Question Number": "47",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You have the following Dynamics 365 Finance instances:You must copy the con\u0000guration data from CompanyA to CompanyB.Solution: Use Copy into legal entity.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "48",
+        "Topic Number": "4",
+        "Question": "A company is migrating address data from an external system to Dynamics 365 Finance. The company has one data package with three entitiesthat contain dependencies:\u2711 Cities\u2711 States\u2711 Postal codesYou need to sequence the data entities within the data package.To which sequence should you assign cities?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. 2.2.1",
+            "B. 1.1.1",
+            "C. 1.1.2",
+            "D. 2.1.1"
+        ]
+    },
+    {
+        "Question Number": "49",
+        "Topic Number": "4",
+        "Question": "A company acquires an analytics company that performs research on customer online purchases.You must import customer purchase data from a pre-existing canvas-driven app into a new Dynamics 365 Finance instance. Data must be mappedto the out-of- the-box entities. The canvas-driven app uses Microsoft Excel as a data store.You need to perform the migration.What should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Data entity change tracking",
+            "B. Microsoft Azure Data Lake",
+            "C. Dual-write",
+            "D. Data Management Framework con\u0000guration data template"
+        ]
+    },
+    {
+        "Question Number": "52",
+        "Topic Number": "4",
+        "Question": "You are implementing Dynamics 365 Finance and Dynamics 365 Supply Chain Management.Items must be migrated from a legacy system. Units of measure must be present in Dynamics 365 Finance and Dynamics 365 Supply ChainManagement before the items can be loaded.You need to import units of measure.Which entity category should you use?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Reference",
+            "B. Parameter",
+            "C. Master",
+            "D. Transaction"
+        ]
+    },
+    {
+        "Question Number": "55",
+        "Topic Number": "4",
+        "Question": "You are preparing to migrate data into Dynamics 365 Supply Chain Management.You need to identify which tool to use for data migration activities.Which three tools can you use? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Excel workbook designer",
+            "B. O\u0000ce integration",
+            "C. Data management workspace",
+            "D. Regression suite automation tool",
+            "E. Electronic reporting tool"
+        ]
+    },
+    {
+        "Question Number": "56",
+        "Topic Number": "4",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You have the following Dynamics 365 Finance instances:You must copy the con\u0000guration data from CompanyA to CompanyB.Solution: Use the Move Database option in Lifecycle Services.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "61",
+        "Topic Number": "4",
+        "Question": "You are preparing to migrate data into Dynamics 365 Finance from an older system.You must assign customers to speci\u0000c receivables accounts by region. A custom \u0000eld within the older system exists to assign the customer to aregion.You need to map the customer data.What should you do?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Map the value from the custom \u0000eld in the older system to the customer segment \u0000eld in Dynamics 365 Finance.",
+            "B. Map the custom \u0000eld from the older system to the customer group \u0000eld in Dynamics 365 Finance.",
+            "C. Map the custom \u0000eld from the older system to the customer account number in Dynamics 365 Finance.",
+            "D. Add a \u0000eld in Dynamics 365 Finance to mirror the older system con\u0000guration."
+        ]
+    },
+    {
+        "Question Number": "62",
+        "Topic Number": "4",
+        "Question": "Your company attends a conference where many part suppliers will be in attendance. Your supplier relations executives meet with suppliers todiscuss contracts with your company at the conference.You are building a mobile app to support the discussions. The mobile app must access multiple data entities within Dynamics 365 Finance. Dataoperations must be synchronous and provide minor updates to existing information.You need to implement a data access technology.Which data access technology should you use?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Business events",
+            "B. OData APIs",
+            "C. ADO.NET",
+            "D. Data management framework"
+        ]
+    },
+    {
+        "Question Number": "65",
+        "Topic Number": "4",
+        "Question": "A company implements Dynamics 365 Finance on-premises. The company uses Microsoft O\u0000ce 2007.The country/region address where a document originates must be included in the footer of documents. Users must be able to edit the address fora document by using Microsoft Word Online.You need to implement Business Document Management (BDM).Which two actions should you perform? Each correct answer presents part of the solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "B",
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Create a Power Automate cloud \u0000ow for each BDM template.",
+            "B. Create a business process \u0000ow for each BDM template.",
+            "C. Upgrade O\u0000ce 2007 to Microsoft O\u0000ce 365.",
+            "D. Migrate the on-premises deployment to the cloud."
+        ]
+    },
+    {
+        "Question Number": "3",
+        "Topic Number": "5",
+        "Question": "A company implements Dynamics 365 Finance.You are responsible for creating a custom feature within a solution by using Microsoft Azure DevOps. Testers have found a bug while running oneof the UserAcceptance Testing (UAT) scripts. However, it is not a high-severity bug and has been found to not have interconnected dependencies to otherbranches within the process \u0000ow.You need to deploy the passed functionality features.What should you do?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Exclude the speci\u0000c package from the Business process modeler (BPM)",
+            "B. Exclude the speci\u0000c package from the deployable package in Microsoft Azure DevOps",
+            "C. Exclude the speci\u0000c package from the data package in the Data management tool",
+            "D. Exclude the speci\u0000c package from the deployable package in Con\u0000guration data manager"
+        ]
+    },
+    {
+        "Question Number": "7",
+        "Topic Number": "5",
+        "Question": "You are responsible for regulatory compliance for a Dynamics 365 Finance environment.You need to be able to search for regulatory features in Microsoft Dynamics Lifecycle Services (LCS).What should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Intelligent Data Management Framework (IDMF)",
+            "B. System diagnostics",
+            "C. Application Object Tree (AOT)",
+            "D. Issue search"
+        ]
+    },
+    {
+        "Question Number": "9",
+        "Topic Number": "5",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a functional consultant who is deploying Dynamics 365 Finance.The implementation must:\u2711 Use an iterative approachIntegrate with real-world data -\u2711 Implement multiple rounds of feedbackYou need to deploy and validate the implementation.Solution: Use the XPPBP tool to export customizations and scenarios from a development sandbox. Make changes to the sandbox containingusers. Deploy from the sandbox to the production environment.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "10",
+        "Topic Number": "5",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a functional consultant who is deploying Dynamics 365 Finance.The implementation must:\u2711 Use an iterative approach\u2711 Integrate with real-world data\u2711 Implement multiple rounds of feedbackYou need to deploy and validate the implementation.Solution: Perform a \u0000t-gap analysis. Con\u0000gure Dynamics 365 Finance to address the functional gap. Deploy the con\u0000guration.Does the solution meet the goal?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "11",
+        "Topic Number": "5",
+        "Question": "You are upgrading a Dynamics 365 Finance solution.You must run functional test passes for the upgraded solution.You need to plan a production environment test \u0000ow for the solution.Which three steps should you verify in the production test \u0000ow? Each correct step presents part of the solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Purchase orders are generated",
+            "B. Item requirements are present",
+            "C. Production order processing occurs",
+            "D. Production orders are generated",
+            "E. The item master is designed and released to a legal entity"
+        ]
+    },
+    {
+        "Question Number": "12",
+        "Topic Number": "5",
+        "Question": "A company uses Dynamics 365 Finance Lifecycle Services (LCS).Your company needs to document and test all possible scenarios for a given implementation. Implementation gaps need to be documented usingthe tool available for tracking and linking to delivered extensions.You need to identify the correct tool to accomplish this.What should you use?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. APQC Uni\u0000ed Libraries",
+            "B. Shared asset library",
+            "C. Business process modeler (BPM)",
+            "D. Microsoft Azure DevOps"
+        ]
+    },
+    {
+        "Question Number": "14",
+        "Topic Number": "5",
+        "Question": "You are a Dynamics 365 Finance system administrator.An issue has been reported that appears to be a base Dynamics 365 bug. The system was last updated three weeks ago. Searching for the issueby description inLifecycle Services is not working.You need to determine other ways to search for similar issues to help narrow down the search before opening a Microsoft ticket.What are two ways to search for a released hot\u0000x? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "B",
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. By industry",
+            "B. By Microsoft support ticket number",
+            "C. By Application Object Tree (AOT) object name",
+            "D. Date range for release"
+        ]
+    },
+    {
+        "Question Number": "15",
+        "Topic Number": "5",
+        "Question": "You implement Dynamics 365 Finance. The implementation will undergo User Acceptance Testing (UAT).You create test case recordings. To coordinate testing across multiple environments, UAT must be integrated with Microsoft Azure DevOps.You need to con\u0000gure Business process modeler (BPM) and Azure DevOps to complete user acceptance testing.Which three actions should you perform? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "C",
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Synchronize the BPM library with Azure DevOps",
+            "B. Create a test pass and test case in Azure DevOps",
+            "C. Upload saved Task recorder \u0000les to BPM",
+            "D. Create a test plan and test suites in Azure DevOps",
+            "E. Synchronize the BPM library with a Git repo",
+            "F. Upload saved Task recorder \u0000les to Azure DevOps"
+        ]
+    },
+    {
+        "Question Number": "16",
+        "Topic Number": "5",
+        "Question": "A company is implementing Finance and Operations apps.All required Microsoft implementation tools are being used for project tracking for standardized Microsoft FastTrack and Support visibility.You need to view the o\u0000cial critical milestone dates for completing the analysis phase.Which tool should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Microsoft Teams",
+            "B. Microsoft Planner",
+            "C. Dynamics 365 Project module",
+            "D. Lifecycle Services"
+        ]
+    },
+    {
+        "Question Number": "17",
+        "Topic Number": "5",
+        "Question": "You are a Dynamics 365 Finance implementation team lead.A series of test plans need to be created and tracked during a company's development phase. Multiple users will be testing multiple aspects ascode is released.Issues and remediations to bugs will also need to be tracked.You need to identify Microsoft solutions that offer these capabilities.What should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Dynamics 365 for Finance and Operations",
+            "B. Lifecycle Services (LCS)",
+            "C. Solution management",
+            "D. Microsoft Azure DevOps"
+        ]
+    },
+    {
+        "Question Number": "21",
+        "Topic Number": "5",
+        "Question": "You are a Dynamics 365 Finance system administrator.A user is reporting an issue with the Sales Order form. The UI for the form is not loading properly, and there are some performance issues. Theobject was working \u0000ne until the most recent update release. The who personalized the form is using Microsoft Edge. No other users are reportingissues.You need to resolve the issue.What should you do?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Reset all the usage data for the user.",
+            "B. Switch to Microsoft Edge instead of Internet Explorer 11.",
+            "C. Reimport and compile the AOT object causing issues.",
+            "D. Open the form in a new Microsoft Edge InPrivate session."
+        ]
+    },
+    {
+        "Question Number": "22",
+        "Topic Number": "5",
+        "Question": "A company is implementing Dynamics 365 Finance.You plan to use Task Recorder to document the process of adding a new customer to the system. Before assigning a credit limit to the customerrecord, the customer's credit must be checked in an external system.You need to include the credit check in the task recording.What should you create?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. End sub-task",
+            "B. Start sub-task",
+            "C. Action step",
+            "D. Info step",
+            "E. Pending step"
+        ]
+    },
+    {
+        "Question Number": "23",
+        "Topic Number": "5",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.A company's Dynamics 365 Commerce production instance is updated monthly as new versions of the software are released.The company needs to identify any potential issues in new releases. They do not have developers to help with this initiative.You need to implement a way to regression test scenarios.Solution: Use the SysTest framework to create unit tests for critical business processes.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "24",
+        "Topic Number": "5",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.A company's Dynamics 365 Commerce production instance is updated monthly as new versions of the software are released.The company needs to identify any potential issues in new releases. They do not have developers to help with this initiative.You need to implement a way to regression test scenarios.Solution: Use the Acceptance Test Library (ATL) framework to create regression test scenarios for critical business processes that do not requireany X++ code changes.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "25",
+        "Topic Number": "5",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.A company's Dynamics 365 Commerce production instance is updated monthly as new versions of the software are released.The company needs to identify any potential issues in new releases. They do not have developers to help with this initiative.You need to implement a way to regression test scenarios.Solution: Place data packages that are related to data task automation in the individual Dynamics Lifecycle Services (LCS) asset library.Does the solution meet the goal?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "26",
+        "Topic Number": "5",
+        "Question": "You are a Dynamics 365 Finance system administrator.A user is reporting an issue with the Sales Order form. The UI for the form is not loading properly, and there are some performance issues. Theobject was working \u0000ne until the most recent update release. The user has personalized this form, is using Microsoft Internet Explorer 11, and noother users are reporting issues.You need to resolve the issue.What should you do?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Switch to Microsoft Edge instead of Internet Explorer 11.",
+            "B. Delete the sales from object in the usage data form.",
+            "C. Export, delete, then reimport the usage data for the sales from object.",
+            "D. Reimport and compile the AOT object causing issues."
+        ]
+    },
+    {
+        "Question Number": "27",
+        "Topic Number": "5",
+        "Question": "You are a Dynamics 365 Finance developer.New features for Dynamics 365 Finance have been released. Your company plans to upgrade their Dynamics 365 instance soon.You need to download a virtual machine that includes all of the new features so that you can explore the new features.Where should you go?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Microsoft Connect",
+            "B. Shared Asset library",
+            "C. Environments",
+            "D. My subscription",
+            "E. Microsoft Developer Network"
+        ]
+    },
+    {
+        "Question Number": "28",
+        "Topic Number": "5",
+        "Question": "You are implementing Dynamics 365 Supply Chain Management.New sales orders must be evaluated every hour. Warehouse operations managers must be sent an email alert to include new sales orders. Thesolution must not include custom code development.You need to use a Power Platform product to implement the solution.Which product should you use?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Power Apps",
+            "B. Power BI",
+            "C. Power Virtual Agents",
+            "D. Power Automate"
+        ]
+    },
+    {
+        "Question Number": "30",
+        "Topic Number": "5",
+        "Question": "You manage a Dynamics 365 Finance environment.Users report slow queries, deadlocks, and crashes.You need identity which tool to use to troubleshoot.What should you use?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Environment monitoring",
+            "B. Microsoft Azure Active Directory Connect Health Agent",
+            "C. System diagnostics",
+            "D. DirectQuery"
+        ]
+    },
+    {
+        "Question Number": "32",
+        "Topic Number": "5",
+        "Question": "You are a Dynamics 365 Finance system administrator.A user is reporting an issue with the Sales Order form. The UI for the form is not loading properly, and there are some performance issues. Theobject was working \u0000ne until the most recent update release. The user has personalized this form, is using Microsoft Internet Explorer 11, and noother users are reporting issues.You need to resolve the issue.What should you do?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Reset all the usage data for the user.",
+            "B. Disable and then re-enable the user.",
+            "C. Export, delete, then reimport the usage data for the sales from object.",
+            "D. Rebuild the system indexes."
+        ]
+    },
+    {
+        "Question Number": "34",
+        "Topic Number": "5",
+        "Question": "You are Dynamics 365 Finance system administrator for a new implementation.You have a solution that needs to be tested using User Acceptance Testing (UAT). You have created a Business process modeler (BPM) library.You need to validate and support the solution.Which three actions should you perform? Each answer presents part of the solution.",
+        "Correct Answer": [
+            "B",
+            "C",
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Create a new Business process library.",
+            "B. Record test cases and save them to BPM.",
+            "C. Upload the saved recording to BPM.",
+            "D. Create and save a new task recording.",
+            "E. Export the task recording to Microsoft Word and upload it to BPM."
+        ]
+    },
+    {
+        "Question Number": "36",
+        "Topic Number": "5",
+        "Question": "A company implements Dynamics 365 Finance.The implementation team must build acceptance testing scripts to make sure that common business use cases can be performed in the newsystem. They must use cases by stepping through required tasks, organized by functional hierarchy.You need to create User Acceptance Testing (UAT) tests in Lifecycle Services (LCS) that can be easily repeatable.What should you use?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Task Recorder",
+            "B. APQC Uni\u0000ed Library",
+            "C. Usage pro\u0000ler",
+            "D. Con\u0000guration data manager"
+        ]
+    },
+    {
+        "Question Number": "37",
+        "Topic Number": "5",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.You are a functional consultant who is deploying Dynamics 365 Finance.The implementation must:Use an iterative approach -\u2711 Integrate with real-world data\u2711 Implement multiple rounds of feedbackYou need to deploy and validate the implementation.Solution: Deploy the out-of-box solution with no customizations. Enable users to customize the solution based on individual user scenarios.Does the solution meet the goal?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "40",
+        "Topic Number": "5",
+        "Question": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution thatmight meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.A company's Dynamics 365 Commerce production instance is updated monthly as new versions of the software are released.The company needs to identify any potential issues in new releases. They do not have developers to help with this initiative.You need to implement a way to regression test scenarios.Solution: Use the Regression Suite Automation Testing (RSAT) framework with Azure DevOps to create regression test scenarios for criticalbusiness processes.Does the solution meet the goal?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Yes",
+            "B. No"
+        ]
+    },
+    {
+        "Question Number": "41",
+        "Topic Number": "5",
+        "Question": "You are a Dynamics 365 Finance system administrator.Microsoft recently released a new feature for public preview that would add signi\u0000cant value to your organization without licensing adjustments.You need to enable the feature.Where can you enable the preview feature?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Solution management",
+            "B. Lifecycle Services",
+            "C. Organizational administration module",
+            "D. experience.dynamics.com"
+        ]
+    },
+    {
+        "Question Number": "43",
+        "Topic Number": "5",
+        "Question": "A company implements Dynamics 365 Finance.The implementation team must build acceptance scripts to make sure that common business use cases can be performed in the new system.They must test use cases by stepping through required tasks, organized by functional hierarchy.You need to create User Acceptance Testing (UAT) tests in Lifecycle Services (LCS) that can be easily repeatable.What should you use?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Task recorder",
+            "B. APQC Uni\u0000ed Library",
+            "C. Asset library",
+            "D. Con\u0000guration data manager"
+        ]
+    },
+    {
+        "Question Number": "47",
+        "Topic Number": "5",
+        "Question": "A company implements Dynamics 365 Finance.The company plans to implement the Regression Suite Automation Tool (RSAT) to assist with their automated testing. The company creates testscripts and must store the scripts in a location that is accessible by RSAT.You need to con\u0000gure RSAT.Where should you upload the test scripts?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Microsoft SharePoint",
+            "B. Microsoft Azure DevOps",
+            "C. Document Management",
+            "D. Common Data Service"
+        ]
+    },
+    {
+        "Question Number": "48",
+        "Topic Number": "5",
+        "Question": "A company is implementing Dynamics 365 Finance.You apply an update. After you test the update, you \u0000nd that the delivery dates on some open sales orders occur in the past. You identify datacon\u0000icts based on the test results.You need to ensure that the delivery date value is equal to or greater than the current data in future automated testing.Which two options could you con\u0000gure? Each answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Current Value",
+            "B. Task Recorder developer placeholder",
+            "C. Task Recorder sub-task",
+            "D. Operators for Validation"
+        ]
+    },
+    {
+        "Question Number": "54",
+        "Topic Number": "5",
+        "Question": "You are currently running version 10.0.2 of Dynamics 365 Finance.You build a solution that includes dependencies on components in version 10.0.2. You have deferred updates of versions 10.0.3, 10.0.4, and10.0.5. Microsoft releases version 10.0.6 of Dynamics 365 Finance. The 10.0.2 components do not work in version 10.0.6.You need to ensure that your solution continues to work properly.What should you do? Each correct answer presents part of the solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "B",
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Accept the version 10.0.6 update",
+            "B. Update the dependencies to support version 10.0.6",
+            "C. Pause the version 10.0.6 update",
+            "D. Maintain the dependencies on version 10.0.2"
+        ]
+    },
+    {
+        "Question Number": "57",
+        "Topic Number": "5",
+        "Question": "A company is preparing for go-live with Dynamics 365 Finance.The company plans to test the sales order process.You need to ensure that a delivery note is generated for each sales order created.What should you use?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Chain test case",
+            "B. Derived test case",
+            "C. SysTest",
+            "D. Data task automation"
+        ]
+    },
+    {
+        "Question Number": "58",
+        "Topic Number": "5",
+        "Question": "A company implements Dynamics 365 Finance.New system users need to import journals. Journal data must be validated before it is imported into Dynamics 365 Finance.You need to import the journal data.What should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Microsoft Dataverse",
+            "B. Excel add-in",
+            "C. Periodic journal",
+            "D. General processing workspace"
+        ]
+    },
+    {
+        "Question Number": "59",
+        "Topic Number": "5",
+        "Question": "You are implementing Dynamics 365 Finance. You use the Microsoft Dynamics O\u0000ce add-in for Excel to import journals for sample test data.You must add two additional \u0000elds in the journal template which are not de\u0000ned in the Microsoft Excel workbook designer. You are not able to addthe columns.The Design button is not visible in Microsoft Dynamics O\u0000ce add-in for Excel.You need to ensure that you can add the additional columns.What should you do?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Sign out and sign back in to the Excel add-in",
+            "B. Add the columns to the Excel document and select Publish",
+            "C. Enable data source designer",
+            "D. Select Refresh to use the most up-to-date template"
+        ]
+    },
+    {
+        "Question Number": "60",
+        "Topic Number": "5",
+        "Question": "A parts supplier provides several terabytes of data that must be imported into Dynamics 365 Finance in bulk.Data operations must provide for insert operations and be asynchronous.You need to implement a data access technology.Which data access technology should you use?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. OData APIs",
+            "B. Data management framework",
+            "C. AJAX",
+            "D. Dual-write"
+        ]
+    },
+    {
+        "Question Number": "66",
+        "Topic Number": "5",
+        "Question": "A company is implementing Dynamics 365 Finance and Dynamics 365 Supply Chain Management. A proprietary reporting solution is used acrossmultiple enterprise resource planning (ERP) applications and is the primary reporting engine for the company.Several key entities must be synchronized to a reporting database and aggregated with other ERP systems. The reporting database must beaccessed by usingMicrosoft Transact-SQL (T-SQL).You need to implement the Dynamics 365 Finance and Dynamics 365 Supply Chain Management feature.Which feature should you use?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Data task automation",
+            "B. Finance and Operations Connector",
+            "C. Dual-write",
+            "D. Bring your own database (BYOD)"
+        ]
+    },
+    {
+        "Question Number": "67",
+        "Topic Number": "5",
+        "Question": "You are a Dynamics 365 Finance system administrator.A user is reporting an issue with the Sales Order form. The UI for the form is not loading properly, and there are some performance issues. Theobject was working \u0000ne until the most recent update release. The who personalized this form is using Microsoft Edge. No other users arereporting issues.You need to resolve the issue.What should you do?",
+        "Correct Answer": [
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Delete the sales form object in the usage data form.",
+            "B. Open the form in a new Microsoft Edge InPrivate session.",
+            "C. Reimport and compile the AOT object causing issues.",
+            "D. Rebuild the system indexes."
+        ]
+    },
+    {
+        "Question Number": "68",
+        "Topic Number": "5",
+        "Question": "A company implements Dynamics 365 Finance.The implementation team must build acceptance testing scripts to make sure that common business use cases can be performed in the newsystem. They must test use cases by stepping through required tasks, organized by functional hierarchy.You need to create User Acceptance Testing (UAT) tests in Lifecycle Services (LCS) that can be easily repeatable.What should you use?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Microsoft Azure DevOps test plans",
+            "B. APQC Uni\u0000ed Library",
+            "C. Asset library",
+            "D. Business process modeler (BPM) synced with Microsoft Azure DevOps"
+        ]
+    },
+    {
+        "Question Number": "69",
+        "Topic Number": "5",
+        "Question": "You are implementing Dynamics 365 Supply Chain Management.You must import data from a third-party system into Supply Chain Management.You need to import \u0000les by using the Data Management framework.Which three \u0000le formats can you use? Each correct answer presents a complete solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "B",
+            "E"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. .xml",
+            "B. .zip",
+            "C. .dat",
+            "D. Pipe delimited",
+            "E. Microsoft Excel"
+        ]
+    },
+    {
+        "Question Number": "70",
+        "Topic Number": "5",
+        "Question": "You implement Dynamics 365 Finance.You must post a message to a Microsoft Teams channel each time a write-off amount is over $1,000 USD.You need to determine which tools to use.Which two tools should you use? Each correct answer presents part of the solution.NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "B",
+            "D"
+        ],
+        "Community Vote Distribution": null,
+        "Answers": [
+            "A. Dynamics 365 Finance work\u0000ow",
+            "B. Power Apps",
+            "C. Business Events",
+            "D. Power Automate"
+        ]
+    }
+]

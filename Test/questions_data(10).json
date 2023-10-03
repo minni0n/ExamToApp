@@ -1,0 +1,226 @@
+[
+    {
+        "Question Number": "1",
+        "Topic Number": "1",
+        "Question": "Your company has recently deployed Dynamics 365 Finance.You are currently establishing the location of work items.Which two of the following work items are located in Accounts payable?NOTE: Each correct selection is worth one point.",
+        "Correct Answer": [
+            "A",
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "A",
+            "B"
+        ],
+        "Answers": [
+            "A. Purchase order.",
+            "B. Vendor invoice.",
+            "C. Transfer order.",
+            "D. Customer Invoice.",
+            "E. Sales Order."
+        ]
+    },
+    {
+        "Question Number": "2",
+        "Topic Number": "1",
+        "Question": "As part of the company's effort to regulate business processes, you plan to make use of the Business Process Modeler (BPM) tool in LifecycleServices (LCS) to make business process alignment possible.You are classifying the key capabilities of BPM with regards to integration.Which of the following is TRUE with regards to the above scenario?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. You are able to pull master data.",
+            "B. You are able to pull reference data.",
+            "C. You are able to upload \u0000owcharts from Task recorder.",
+            "D. You are able to access external databases."
+        ]
+    },
+    {
+        "Question Number": "3",
+        "Topic Number": "1",
+        "Question": "Microsoft releases a new feature for public preview that does not require additional licensing.You want to enable the new feature.You enable the feature in Solution management.Does this action enable the new feature?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "4",
+        "Topic Number": "1",
+        "Question": "Microsoft releases a new feature for public preview that does not require additional licensing.You want to enable the new feature.You enable the feature in Lifecycle Services (LCS).Does this action enable the new feature?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "5",
+        "Topic Number": "1",
+        "Question": "Microsoft releases a new feature for public preview that does not require additional licensing.You want to enable the new feature.You enable the feature in Feature management.Does this action enable the new feature?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    },
+    {
+        "Question Number": "6",
+        "Topic Number": "1",
+        "Question": "You are employed as a Dynamics 365 Finance system administrator at your company.You have been tasked with making sure that users are able to quickly reduce the number of records. To do this, the data must be \u0000ltered accordingto speci\u0000ed criteria.Which of the following is the appropriate query \u0000lter syntax for today's date in a date \u0000eld?Which \u0000lter syntax should you use? To answer, select the appropriate options in the answer area.",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. DD",
+            "B. D",
+            "C. T",
+            "D. T(0)"
+        ]
+    },
+    {
+        "Question Number": "7",
+        "Topic Number": "1",
+        "Question": "Your company has a Dynamics 365 Finance environment that includes the use of Lifecycle Services (LCS).You want to make sure that you are able to use Business Process Modeler (BPM) in the environment.Which of the following is TRUE with regards to using BPM?",
+        "Correct Answer": [
+            "A"
+        ],
+        "Community Vote Distribution": [
+            "A"
+        ],
+        "Answers": [
+            "A. As a minimum, you need Microsoft O\u0000ce 2010 and a Microsoft Azure DevOps project.",
+            "B. As a minimum, you need Microsoft O\u0000ce 2019 and a Microsoft Azure DevOps project.",
+            "C. As a minimum, you need Microsoft O\u0000ce 2010 and Dynamics 365 Project Service Automation.",
+            "D. As a minimum, you need Microsoft O\u0000ce 2019 and Dynamics 365 Project Service Automation."
+        ]
+    },
+    {
+        "Question Number": "8",
+        "Topic Number": "1",
+        "Question": "You need to consider the underlined segment to establish whether it is accurate.The Global search reporting tool can be used to speedily \u0000nd personal data for a speci\u0000ed individual.Select `No adjustment required` if the underlined segment is accurate. If the underlined segment is inaccurate, select the accurate option.",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. No adjustment required.",
+            "B. Person search report",
+            "C. GDPR request",
+            "D. Relevance search report"
+        ]
+    },
+    {
+        "Question Number": "9",
+        "Topic Number": "1",
+        "Question": "Your company make use of Dynamics 365 Finance.You are responsible for assessing business processes and their related prerequisites, which includes bugs, tasks, backlog items, tests, anddocuments.You have been tasked with tracking the progress of your implementation project and correlate different work items with prerequisites andbusiness processes. You also have to detect and distribute bug \u0000xes within your regular delivery schedule.Which of the following should you use to create business process maps?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Microsoft Visio",
+            "B. Business process modeler",
+            "C. Microsoft Azure DevOps",
+            "D. Microsoft GitHub"
+        ]
+    },
+    {
+        "Question Number": "10",
+        "Topic Number": "1",
+        "Question": "DRAG DROP -You are tasked with creating address books in your company's environment.You are preparing to create a global address book, as well as additional address books for each line of business.Which of the following are party types that can be added to global and additional address books? Answer by dragging the correct options from thelist to the answer area.Select and Place:Correct Answer:Reference:https://www.examtopics.com/exams/microsoft/mb-300/custom-view/ 7/4329/28/23, 12:29 PM MB-300 Exam \u2013 Free Actual Q&As, Page 1 | ExamTopicshttps://docs.microsoft.com/en-us/dynamics365/\u0000n-ops-core/\u0000n-ops/organization-administration/overview-global-address-book",
+        "Correct Answer": null,
+        "Community Vote Distribution": null,
+        "Answers": []
+    },
+    {
+        "Question Number": "11",
+        "Topic Number": "1",
+        "Question": "You need to consider the underlined segment to establish whether it is accurate.To review who has been assigned the administrator role, you should use the Security duty assignments report.Select `No adjustment required` if the underlined segment is accurate. If the underlined segment is inaccurate, select the accurate option.",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. No adjustment required.",
+            "B. Security role access",
+            "C. Role to user assignments",
+            "D. User role assignments"
+        ]
+    },
+    {
+        "Question Number": "12",
+        "Topic Number": "1",
+        "Question": "You are setting up Dynamics 365 Finance for a company started in the United States and Canada.You are currently determining policy rules for purchasing. You need to make sure that personnel in the United States and Canada purchase fromseparate catalogs and suppliers.Which of the following actions should you take?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Set up catalog policy rules.",
+            "B. Set up purchasing policies at the legal-entity level.",
+            "C. Set up category access policy rules.",
+            "D. Set up purchasing policies at the organization level."
+        ]
+    },
+    {
+        "Question Number": "13",
+        "Topic Number": "1",
+        "Question": "You are setting up Dynamics 365 Finance for a companyYou are currently determining policy rules for purchasing. You are informed that your solution should allow for a certain user to only access theTools category when generating purchase requisitions.Which of the following actions should you take?",
+        "Correct Answer": [
+            "C"
+        ],
+        "Community Vote Distribution": [
+            "C"
+        ],
+        "Answers": [
+            "A. Set up catalog policy rules.",
+            "B. Set up category policy rule",
+            "C. Set up category access policy rules.",
+            "D. Set up purchasing policies at the organization level."
+        ]
+    },
+    {
+        "Question Number": "14",
+        "Topic Number": "1",
+        "Question": "Your company uses Dynamics 365 Finance.You are responsible for approving purchases that exceed of a quarter million dollars. You need to use User Options to allow another user to takeover your role.You add the user and assign the user the All scope.Does this action allow the user to take over your role?",
+        "Correct Answer": [
+            "B"
+        ],
+        "Community Vote Distribution": [
+            "B"
+        ],
+        "Answers": [
+            "A. Yes, it does",
+            "B. No, it does not"
+        ]
+    }
+]
